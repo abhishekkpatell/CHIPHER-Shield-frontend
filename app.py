@@ -6,7 +6,7 @@ from streamlit_autorefresh import st_autorefresh
 import time
 
 # ------------------- CONFIG -------------------
-BACKEND_URL = "https://cipher-shield.onrender.com"
+BACKEND_URL = "https://cipher-shield-v3-under-dev.onrender.com"
 
 # ------------------- SESSION STATE -------------------
 if 'token' not in st.session_state:
