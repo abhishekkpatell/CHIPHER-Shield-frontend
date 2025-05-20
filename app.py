@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 from cryptography.hazmat.primitives import serialization, hashes
-pip install cryptography
 from cryptography.hazmat.primitives.asymmetric import padding
 from streamlit_autorefresh import st_autorefresh
 import time
