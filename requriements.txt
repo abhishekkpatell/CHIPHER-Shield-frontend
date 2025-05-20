@@ -1,4 +1,4 @@
 streamlit
 requests
-cryptography>=3.4,<42.0
+cryptography
 streamlit-autorefresh
