@@ -1,4 +1,6 @@
 streamlit
-requests
 cryptography
+requests
 streamlit-autorefresh
+pip install pipreqs
+pipreqs /path/to/your/project
